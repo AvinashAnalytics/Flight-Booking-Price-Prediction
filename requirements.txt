@@ -1,0 +1,8 @@
+This file contains all the required Python libraries. Here’s an example:
+
+```plaintext
+pandas==1.5.0
+numpy==1.23.1
+matplotlib==3.5.2
+seaborn==0.11.2
+scikit-learn==1.0.2
