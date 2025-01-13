@@ -1,7 +1,15 @@
 # ✈️ **Flight Booking Price Prediction**  
 
+
+<div align="center">
+  <img src="https://tse1.mm.bing.net/th?id=OIG1.nlMUn8A80XrIy8_TmfAj&pid=ImgGn" alt="Flight Booking Price Prediction" width="500" height="300">
+</div>
+
+
 _"The future belongs to those who believe in the beauty of their data and the power of machine learning."_  
 — **Eleanor Roosevelt**  
+
+
 
 ---
 
